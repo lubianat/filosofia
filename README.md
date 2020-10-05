@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lubianat/filosofia/tree/gh-pages) branch hosts the contents of this directory at <https://lubianat.github.io/filosofia/>.
-The permalink for this webpage version is <https://lubianat.github.io/filosofia/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/>.
+The permalink for this webpage version is <https://lubianat.github.io/filosofia/v/522cab5a6e244c486a1a55514ed55d60907c352c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lubianat.github.io/filosofia/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc`](https://github.com/lubianat/filosofia/commit/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc).
+[`522cab5a6e244c486a1a55514ed55d60907c352c`](https://github.com/lubianat/filosofia/commit/522cab5a6e244c486a1a55514ed55d60907c352c).
