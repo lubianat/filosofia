@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-23'
+date-meta: '2020-10-05'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-09-23" />
+  <meta name="dc.date" content="2020-10-05" />
 
-  <meta name="citation_publication_date" content="2020-09-23" />
+  <meta name="citation_publication_date" content="2020-10-05" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/filosofia/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/filosofia/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/filosofia/v/522cab5a6e244c486a1a55514ed55d60907c352c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/filosofia/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/filosofia/v/522cab5a6e244c486a1a55514ed55d60907c352c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/filosofia/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/filosofia/v/522cab5a6e244c486a1a55514ed55d60907c352c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/filosofia/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/))
+([permalink](https://lubianat.github.io/filosofia/v/522cab5a6e244c486a1a55514ed55d60907c352c/))
 was automatically generated
-from [lubianat/filosofia@0964fd7](https://github.com/lubianat/filosofia/tree/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc)
-on September 23, 2020.
+from [lubianat/filosofia@522cab5](https://github.com/lubianat/filosofia/tree/522cab5a6e244c486a1a55514ed55d60907c352c)
+on October 5, 2020.
 </em></small>
 
 ## Authors
@@ -141,301 +141,137 @@ on September 23, 2020.
 
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+## The Case for the Use of Animals in Biomedical Research
+[@doi:10.1056/NEJM198610023151405]
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+### Highlights
+USING animals as research subjects in medical investigations is widely condemned on two
+grounds: first, because it wrongly violates the rights of animals, 1 and second, because it wrongly imposes on sentient creatures much avoidable sujfering.2 Neither of these arguments is sound. The first relies on a mis? taken understanding of rights; the second relies on a mistaken calculation of consequences. Both deserve definitive dismissal.
 
-## Basic formatting
+A right, properly understood, is a claim, or potential claim, that one party may exercise against another.
+To comprehend any genuine right fully, there? fore, we must know who holds the right, against whom it is held, and to what it is a right.
 
-**Bold** __text__
+Rights arise, and can be intelligibly defended, only among beings who actually do, or can, make moral claims against one another.
 
-[Semi-bold text]{.semibold}
+The assertion that all animals, only because they are alive and have interests, also possess the "right to life" 10 is an abuse of that phrase, and wholly without warrant.
 
-[Centered text]{.center}
+In our dealings with animals, as in our dealings with other human beings, we have obligations that do not arise from claims against us based on rights.
 
-[Right-aligned text]{.right}
+The issue is one of kind. Humans are of such a kind that they may be the subject of experiments only with their voluntary consent.
 
-*Italic* _text_
 
-Combined *italics and __bold__*
+but, Can they suffer?" 14 Animals certainly can suffer and surely ought not to
+be made to suffer needlessly. But in inferring, from these uncontroversial premises, that biomedical re? search causing animal distress is largely (or wholly) wrong, the critic commits two serious errors.
 
-~~Strikethrough~~
+The first error is the assumption, often explicitly defended, that all sentient animals have equal moral standing
 
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
+The racist violates the principle of equality by giving greater weight to the interests of members of his own race when there is a clash between their interests and the interests of those of another race. The sexist violates the principle of equality by favoring the interests of his own sex. Similarly the speciesist allows the interests of his own species to override the greater interests of members of other species. The pattern is identical in each case.2
 
-- List item
-- List item
-- List item
+This argument is worse than unsound; it is atrocious
 
-subscript: H~2~O is a liquid
+I am a speciesist. Speciesism is not merely plausible; it is essential for right conduct.
 
-superscript: 2^10^ is 1024.
+The elimination of horrible disease, the increase of longevity, the avoidance of great pain, the saving of lives, and the improvement of the quality of lives (for humans and for animals) achieved through research using animals is so incalculably great that the argument of these critics, systematically pursued, establishes not their conclusion but its reverse: to refrain from using ani? mals in biomedical research is, on utilitarian grounds, morally wrong.
 
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
+It would be a serious error to suppose, however, that alternative techniques could soon be used in most research now using live animal subjects.
 
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
+Should we not at least reduce the use of animals in biomedical research? No, we should increase it, to avoid when feasible the use of humans as experimen? tal subjects.
 
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This frankly ad hominem ob? servation aims chiefly to show that a coherent position rejecting the use of animals in medical research im? poses costs so high as to be intolerable even to the critics themselves.
 
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
+One cannot coherently object to the killing of animals in biomedical investigations while continuing to eat them.
 
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
+How can the many common uses of animals be judged morally worthy, while their use in scientific investigation is judged unworthy?
 
-## Document organization
+We surely do have obligations to animals, but they have, and can have, no rights against us on which research can infringe. 
 
-Document section headings:
+### Comments
 
-# Heading 1
+Rights arise, and can be intelligibly defended, only among beings who actually do, or can, make moral claims against one another.
+--> Weak position, so babies have no rights? 
 
-## Heading 2
+The capacity for moral judgment that distinguishes humans from animals is not a test to be administered to human beings one by one
+--> He tries to escape, but his argument is already tainted. 
 
-### Heading 3
+"The issue is one of kind" --> Why is the human species the master kind? Why is the species concept that relevant? 
 
-#### Heading 4
+The first error is the assumption, often explicitly defended, that all sentient animals have equal moral standing --> This I tend to agree. 
 
-##### Heading 5
+All the utilitarian arguments pro research assumes _good research_. Is irreproducibility by omission an ethical flaw?
 
-###### Heading 6
+How can the many common uses of animals be judged morally worthy, while their use in scientific investigation is judged unworthy? --> I think there are academically interesting answers to that. Mostly on conservative, natural x unnatural grounds. 
 
-### A heading centered on its own printed page{.center .page_center}
 
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
 
-Horizontal rule:
+## The Case for Animal Rights
+[@url:https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1003&context=acwp_awap]
 
----
+### Highlights
 
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
 
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+I regard myself as an advocate of animal rights-as part of the animal
+rights movement. That movement, as I conceive it, is committed to a number of goals, including:
 
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
+- the total abolition of the use of animals in science; 
+-the total dissolution of commercial animal agriculture; 
+-the total elimination of commercial and sport hunting and trapping.
 
-## Links
+the pulsing pain of the chimp with electrodes planted deep in her brain is repulsive;
 
-Bare URL link: <https://manubot.org>
+The fundamental wrong is the system that allows us to view animals as our resources.
 
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
+Philosophers do-to use the jargon of the day- have a right side to their brains. If it's the left side we contribute (or mainly should), that's because what talents we have reside there.
 
-[Link with text](https://manubot.org)
+A second possibility is that though both humans and your dog are hurt when kicked, it is only human pain that matters. But, again, no rational person can believe this.Pain is pain wherever it occurs.
 
-[Link with hover text](https://manubot.org "Manubot Homepage")
+--> Nah, bad argument. Actually, it is plainly wrong, as 2 reasonable people might disagree. 
 
-[Link by reference][manubot homepage]
+I have, then, according to contractarianism, no duty directly to your dog or any other animal, not even the duty not to cause them pain or suffering; my duty not to hurt them is a duty I have to those people who care about what happens to them.
 
-[Manubot Homepage]: https://manubot.org
+That is very well and good for the signatories but not so good for anyone who is not asked to sign.
 
-## Citations
+--> Simple: all people matter in the equation. 
 
-Citation by DOI [@doi:10.7554/eLife.32822].
+And yet it seems reasonably certain that, were we to torture a young child or a retarded elder, we would be doing something that wronged him or her, not something that would be wrong if (and only if) other humans with a sense of justice were upset. And since this is true in the case of these humans, we cannot rationally deny the same in the case of animals.
 
-Citation by PubMed Central ID [@pmc:PMC6103790].
+--> Again, returns to the rights of species x of individuals
 
-Citation by PubMed ID [@pubmed:30718888].
+A utilitarian accepts two moral principles. The first is that of equality: everyone's interests count, and similar interests must be counted as having similar weight or importance. White or black, American or Iranian, human or ani- mal-everyone's pain or frustration matter, and matter just as much as the equivalent pain or frustration of anyone else. The second principle a utilitarian accepts is that of utility: do the act that will bring about the best balance between satisfaction and frustration for evetyone affected by the outcome
 
-Citation by Wikidata ID [@wikidata:Q56458321].
+--> I`m not an utilitarian in his view, then. 
 
-Citation by ISBN [@isbn:9780262517638].
+This same kind of argument can be repeated in all sorts of cases, illustrating, time after time, how the utilitarian's position leads to results that impartial people find morally callous. It is wrong to kill my Aunt Bea in the name of bringing about the best results for others. A good end does not justify an evil means.
 
-Citation by URL [@https://greenelab.github.io/meta-review/].
+--> This kind of mentality leads to anti vaxxers and anti maskers. 
 
-Citation by alias [@deep-review].
+inherent value have it equally, regardless of their sex, race, religion, birthplace, and so on. My value as an individual is independent of my usefulness to you.
 
-Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
+--> What is value, then? Value to whom?
 
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
+Of course, if it were possible to show that only human beings are included within its scope, then a person like myself, who believes in animal rights, would be obliged to look elsewhere.
 
-[@deep-review]: doi:10.1098/rsif.2017.0387
+--> That is the fundamental point of rights theory. But rights theory can be used to justify killing as it could balance rights (e.g. killing one to save ten)
 
-## Referencing figures, tables, equations
+But I would not want to rest my position on a controversial ethical issue on the even more controversial question about who or what has an immortal soul. 
 
-Figure @fig:square-image
+--> Is "soul" even within the scope of rational debate?
 
-Figure @fig:wide-image
 
-Figure @fig:tall-image
+All who have inherent value have it equally, whether they be human animals or not.
 
-Figure @fig:vector-image
+--> Comer sardinha é moralmente pior que atum, então?
 
-Table @tbl:bowling-scores
+In the case of the use of animals in science, the rights view is categoricaily abolitionist. Lab animals are not our tasters; we are not tl1eir kings. Because these animals are treated routinely, system- atically as if their value were reducible to their usefulness to others, they are routinely, systematically treated with a lack of respect, and thus are their rights routinely, systematically violated
 
-Equation @eq:regular-equation
+--> E uma visão essencialmente conservadora. 
+All great movements, it is written, go through three stages: ridicule, discussion, adoption. It is the realization of this third stage, adoption, that requires both our passion and our discipline, our hearts and our heads. The fate of animals is in our hands. God grant we are equal to the task.
 
-Equation @eq:long-equation
 
-## Quotes and code
+### Comments
 
-> Quoted text
+- What is an animal?
 
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
-
-Code `in the middle` of normal text, aka `inline code`.
-
-Code block with Python syntax highlighting:
-
-```python
-from manubot.cite.doi import expand_short_doi
-
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
-
-Code block with no syntax highlighting:
-
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
-
-## Figures
-
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
-
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
-
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-](https://raw.githubusercontent.com/manubot/resources/master/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
-
-## Tables
-
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
-
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
-
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
-
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
-
-|          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
-
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
-
-## Equations
-
-A LaTeX equation:
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
-
-An equation too long to fit within page:
-
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
-
-## Special
-
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
-_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
-
-[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
-
-Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
-
-::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-:::
-
-Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
-
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
-
-Available background colors for text, images, code, banners, etc:  
-
-`white`{.white}
-`lightgrey`{.lightgrey}
-`grey`{.grey}
-`darkgrey`{.darkgrey}
-`black`{.black}
-`lightred`{.lightred}
-`lightyellow`{.lightyellow}
-`lightgreen`{.lightgreen}
-`lightblue`{.lightblue}
-`lightpurple`{.lightpurple}
-`red`{.red}
-`orange`{.orange}
-`yellow`{.yellow}
-`green`{.green}
-`blue`{.blue}
-`purple`{.purple}
-
-Using the [Font Awesome](https://fontawesome.com/) icon set:
-
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
-
-[
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
-]{.banner .lightgrey}
-
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
-
-[
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
-
+- Como ele justifica os animais carnívoros? E as plantas carnívoras, cometem elas atrocidades morais? E os animais onívoros? Eles tem direitos morais com a vida, mas náo tem deveres morais com a vida?
 
 ## References {.page_break_before}
 
